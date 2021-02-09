@@ -6,5 +6,5 @@
 要使用此更新通道，请在Magisk Manager设置中配置以下自定义URL：
 
 陈风粉丝专用更新通道
-https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/my.json
+https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/21.4.json
 
