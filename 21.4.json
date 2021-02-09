@@ -9,7 +9,7 @@
     "version": "21.4",
     "versionCode": "21400",
     "link": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/21.4/Magisk-21.4(21400).zip",
-    "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/lastest/Changelog.md",
+    "note": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk/Changelog.md",
     "md5": "ee6dd05579776e7de3a6077087846e53"
   },
     "uninstaller": {
