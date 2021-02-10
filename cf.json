@@ -13,6 +13,6 @@
     "md5": "ee6dd05579776e7de3a6077087846e53"
   },
     "uninstaller": {
-    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/lastest/Magisk-uninstaller-20190604-v19.3.zip"
+    "link": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/Magisk-uninstaller-20210117.zip"
   }
 }
