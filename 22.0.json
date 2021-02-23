@@ -1,0 +1,18 @@
+{
+  "app": {
+    "version": "8.0.7",
+    "versionCode": "4834",
+    "link": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/22.0/Magisk-v22.0.apk",
+    "note": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk/version-notes-app.md"
+  },
+  "magisk": {
+    "version": "21.4",
+    "versionCode": "21400",
+    "link": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/21.4/Magisk-21.4(21400).zip",
+    "note": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk/version-notes-magisk.md",
+    "md5": "ee6dd05579776e7de3a6077087846e53"
+  },
+    "uninstaller": {
+    "link": "https://cdn.jsdelivr.net/gh/chenfengnet/magisk@master/Magisk-uninstaller-20210117.zip"
+  }
+}
